@@ -56,6 +56,11 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  
+  # asset 등록
+  assets:
+#    - assets/images/android.png  # 개별 등록
+    - assets/images/ # 디렉터리를 등록 
 
   # To add assets to your application, add an assets section, like this:
   # assets:
